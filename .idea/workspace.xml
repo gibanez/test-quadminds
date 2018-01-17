@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0f7d248-7bbc-4b4d-9fdc-2d1006f86cce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/REAME.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,13 +93,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="REAME.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/REAME.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-                <folding />
+              <first_editor relative-caret-position="332">
+                <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                <folding>
+                  <marker date="1516204052986" expanded="true" signature="904:1162" ph="INSERT INTO `oauth2_clients`... " />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -191,8 +193,8 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Form/DataTransformer/UpperCaseTransform.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Cliente.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Form/ClienteType.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/REAME.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -422,12 +424,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516142218263</updated>
       <workItem from="1516142222021" duration="17079000" />
-      <workItem from="1516197331460" duration="5024000" />
+      <workItem from="1516197331460" duration="5585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22103000" />
+    <option name="totallyTimeSpent" value="22664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -744,12 +746,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/REAME.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            <folding />
+          <first_editor relative-caret-position="332">
+            <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <folding>
+              <marker date="1516204052986" expanded="true" signature="904:1162" ph="INSERT INTO `oauth2_clients`... " />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

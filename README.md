@@ -1,4 +1,7 @@
 # test-pagos360-api
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 Test for company pagos360
 # Requirements
 
@@ -18,3 +21,10 @@ Se valorara:
 - Utilzación de bundles tales como FOSUserBundle y FOSOAuthServerBundle.
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
+
+###add client to auth
+
+```sql
+INSERT INTO `oauth2_clients` (`id`, `random_id`, `redirect_uris`, `secret`, `allowed_grant_types`) VALUES
+(1, '3bcbxd9e24g0gk4swg0kwgcwg4o8k8g4g888kwc44gcc0gwwk4', 'a:0:{}', '4ok2x70rlfokc8g0wws8c8kwcokw80k44sg48goc0ok4w0so0k', 'a:1:{i:0;s:8:\"password\";}');
+```
