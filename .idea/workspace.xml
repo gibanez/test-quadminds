@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0f7d248-7bbc-4b4d-9fdc-2d1006f86cce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,10 +96,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="332">
-                <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <first_editor relative-caret-position="408">
+                <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
                 <folding>
-                  <marker date="1516204052986" expanded="true" signature="904:1162" ph="INSERT INTO `oauth2_clients`... " />
+                  <marker date="1516204232507" expanded="true" signature="905:1163" ph="INSERT INTO `oauth2_clients`... " />
                 </folding>
               </first_editor>
               <second_editor />
@@ -424,12 +423,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516142218263</updated>
       <workItem from="1516142222021" duration="17079000" />
-      <workItem from="1516197331460" duration="5585000" />
+      <workItem from="1516197331460" duration="5765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22664000" />
+    <option name="totallyTimeSpent" value="22844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -749,10 +748,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <first_editor relative-caret-position="408">
+            <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             <folding>
-              <marker date="1516204052986" expanded="true" signature="904:1162" ph="INSERT INTO `oauth2_clients`... " />
+              <marker date="1516204232507" expanded="true" signature="905:1163" ph="INSERT INTO `oauth2_clients`... " />
             </folding>
           </first_editor>
           <second_editor />

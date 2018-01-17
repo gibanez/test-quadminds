@@ -22,7 +22,7 @@ Se valorara:
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
 
-###add client to auth
+### add client to auth
 
 ```sql
 INSERT INTO `oauth2_clients` (`id`, `random_id`, `redirect_uris`, `secret`, `allowed_grant_types`) VALUES
