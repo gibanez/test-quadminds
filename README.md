@@ -1,6 +1,12 @@
 # test QUADMINDS
 
 Test for company Quadminds
+
+### Requerimientos
+- PHP
+- MySQL
+- Composer
+
 ### Instalacion
 
 ```console
