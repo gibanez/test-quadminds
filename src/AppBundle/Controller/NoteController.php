@@ -149,13 +149,7 @@ class NoteController extends FOSRestController
             return new View($response, Response::HTTP_OK, $this->headers);
         }
 
-        var_dump($form->getErrors());
-        foreach ($form->getErrors() as $error) {
-            var_dump(get_class($error));
-        }
         return $this->sendError($form);
-
-        //return new View($form->getErrors(), Response::HTTP_NOT_ACCEPTABLE, $this->headers);
     }
 
     private function sendError($message)
